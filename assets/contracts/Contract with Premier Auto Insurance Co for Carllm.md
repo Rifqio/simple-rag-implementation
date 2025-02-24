@@ -9,9 +9,9 @@
 ## Terms
 
 1. **Agreement Duration**: This contract is effective from January 1, 2025, and shall remain in effect for a period of twelve (12) months, concluding on December 31, 2025. 
-2. **Payment**: The Client agrees to pay Jasa Raharja Putera a subscription fee of $2,500 per month for the duration of the contract, payable within 30 days of the invoice date.
+2. **Payment**: The Client agrees to pay BPJS Kesehatan a subscription fee of $2,500 per month for the duration of the contract, payable within 30 days of the invoice date.
 3. **Scope of Services**: The services provided under this contract include access to the Carllm platform, integration support, AI-powered risk assessment tools, customizable coverage plans, and automated customer support.
-4. **Data Security**: Jasa Raharja Putera commits to implementing industry-standard security measures to protect Client data, in accordance with applicable privacy laws.
+4. **Data Security**: BPJS Kesehatan commits to implementing industry-standard security measures to protect Client data, in accordance with applicable privacy laws.
 
 ---
 
@@ -37,9 +37,9 @@
 
 ## Support
 
-1. **Customer Support Availability**: Jasa Raharja Putera shall provide technical support to the Client via phone and email during standard business hours (9 AM - 5 PM ET, Monday to Friday).
+1. **Customer Support Availability**: BPJS Kesehatan shall provide technical support to the Client via phone and email during standard business hours (9 AM - 5 PM ET, Monday to Friday).
 2. **Emergency Support**: Emergency support will be available 24/7 for critical issues impacting the Client’s operations, response time not to exceed 2 hours.
-3. **Training and Resources**: Jasa Raharja Putera will provide training materials and sessions to ensure successful deployment and use of Carllm.
+3. **Training and Resources**: BPJS Kesehatan will provide training materials and sessions to ensure successful deployment and use of Carllm.
 4. **Feedback and Updates**: The Client will have regular opportunities to provide feedback on service performance. Updates and new features will be communicated promptly.
 
 ---
@@ -54,10 +54,10 @@ Name: [Client Representative Name]
 Title: [Client Representative Title]  
 Date: ________________
 
-*Jasa Raharja Putera*  
+*BPJS Kesehatan*  
 _________________________  
-Name: [Jasa Raharja Putera Representative Name]  
-Title: [Jasa Raharja Putera Representative Title]  
+Name: [BPJS Kesehatan Representative Name]  
+Title: [BPJS Kesehatan Representative Title]  
 Date: ________________
 
 --- 

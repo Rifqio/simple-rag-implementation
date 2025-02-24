@@ -1,11 +1,11 @@
-import { DirectoryLoader } from 'langchain/document_loaders/fs/directory';
-import { TextLoader } from 'langchain/document_loaders/fs/text';
+import 'dotenv/config';
+import { Chat } from './chat';
+import { GetDataStore } from './datastore';
 
-const loadDocument = async () => {
-    const path = './assets';
-    const loader = new DirectoryLoader(path, {
-        '.md': (path) => new TextLoader(path),
-    });
-    const docs = await loader.load();
-    console.log(docs)
-};
+async function main() {
+    const vectorStore = await GetDataStore();
+    const chat = await Chat('What is the best insurance for me?', vectorStore);
+    console.log(chat);
+}
+
+main();

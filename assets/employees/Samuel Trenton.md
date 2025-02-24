@@ -7,15 +7,15 @@
 - **Job Title:** Senior Data Scientist  
 - **Location:** Austin, Texas  
 
-## Jasa Raharja Putera Career Progression
+## BPJS Kesehatan Career Progression
 - **January 2020 - Present:** Senior Data Scientist  
   *Promoted for demonstrating exceptional analytical skills and leadership potential. Led several projects that improved customer segmentation strategies, resulting in a 15% increase in customer retention.*
 
 - **June 2018 - December 2019:** Data Scientist  
-  *Joined the Jasa Raharja Putera team and worked on developing predictive modeling techniques to assess risk for both B2B and B2C customers. Received recognition for the success of the "Risk Assessment Model" project.*
+  *Joined the BPJS Kesehatan team and worked on developing predictive modeling techniques to assess risk for both B2B and B2C customers. Received recognition for the success of the "Risk Assessment Model" project.*
 
 - **August 2016 - May 2018:** Junior Data Analyst  
-  *Started at Jasa Raharja Putera as a Junior Data Analyst, focusing on data cleaning and preliminary analysis of customer data. Received training in various data visualization techniques, which aided in the transition to a Data Scientist role.*
+  *Started at BPJS Kesehatan as a Junior Data Analyst, focusing on data cleaning and preliminary analysis of customer data. Received training in various data visualization techniques, which aided in the transition to a Data Scientist role.*
 
 ## Annual Performance History
 - **2023:** Rating: 4.5/5  

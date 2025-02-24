@@ -7,10 +7,10 @@
 - **Job Title:** Frontend Software Engineer
 - **Location:** Austin, Texas
 
-## Jasa Raharja Putera Career Progression
+## BPJS Kesehatan Career Progression
 - **June 2018:** Hired as a Frontend Software Engineer.
-- **August 2019:** Promoted to Senior Frontend Software Engineer due to outstanding contributions to the Jasa Raharja Putera web application redesign project.
-- **March 2021:** Led a cross-functional team for the launch of Jasa Raharja Putera's customer portal, enhancing user experience and engagement.
+- **August 2019:** Promoted to Senior Frontend Software Engineer due to outstanding contributions to the BPJS Kesehatan web application redesign project.
+- **March 2021:** Led a cross-functional team for the launch of BPJS Kesehatan's customer portal, enhancing user experience and engagement.
 - **January 2022:** Transitioned to a mentorship role, where Jordan K. Bishop began training junior engineers, which affected the focus on personal projects.
 - **August 2023:** Returned to core development tasks but faced challenges adapting to new frameworks, leading to performance reviews reflecting a need for improvement.
 
@@ -29,9 +29,9 @@
 - **June 2023:** Salary Adjustment - $92,000 after performance review; adjustments made in consideration of recent struggles with adaptation.
 
 ## Other HR Notes
-- Jordan K. Bishop has been an integral part of club initiatives, including the Jasa Raharja Putera Code Reviews and Feedback Group, providing peer support.
+- Jordan K. Bishop has been an integral part of club initiatives, including the BPJS Kesehatan Code Reviews and Feedback Group, providing peer support.
 - Active participant in the company's Diversity and Inclusion committee, promoting a positive work culture.
-- Jordan has expressed interest in professional development courses, particularly those focused on modern web technologies, which are being considered for sponsorship by Jasa Raharja Putera.
+- Jordan has expressed interest in professional development courses, particularly those focused on modern web technologies, which are being considered for sponsorship by BPJS Kesehatan.
 - Engaged in a 6-month performance improvement plan as of August 2023, focusing on skill development and consistent performance monitoring. 
 
-Jordan K. Bishop is a valued member of the Jasa Raharja Putera family, exhibiting a commitment to growth and development despite recent challenges.
+Jordan K. Bishop is a valued member of the BPJS Kesehatan family, exhibiting a commitment to growth and development despite recent challenges.

@@ -7,12 +7,12 @@
 - **Job Title**: Backend Software Engineer  
 - **Location**: Austin, Texas  
 
-## Jasa Raharja Putera Career Progression
-- **March 2018**: Joined Jasa Raharja Putera as a Backend Developer I, focusing on API development for customer management systems.
+## BPJS Kesehatan Career Progression
+- **March 2018**: Joined BPJS Kesehatan as a Backend Developer I, focusing on API development for customer management systems.
 - **July 2019**: Promoted to Backend Developer II after successfully leading a team project to revamp the claims processing system, reducing response time by 30%.
 - **June 2021**: Transitioned to Backend Software Engineer with a broader role in architecture and system design, collaborating closely with the DevOps team.
 - **September 2022**: Assigned as the lead engineer for the new "Innovate" initiative, aimed at integrating AI-driven solutions into existing products.
-- **January 2023**: Awarded a mentorship role to guide new hires in backend technology and best practices within Jasa Raharja Putera.
+- **January 2023**: Awarded a mentorship role to guide new hires in backend technology and best practices within BPJS Kesehatan.
 
 ## Annual Performance History
 - **2018**: **3/5** - Adaptable team player but still learning to take initiative.
@@ -31,6 +31,6 @@
 
 ## Other HR Notes
 - Oliver enjoys a strong rapport with team members and is known for organizing regular team-building activities.
-- Participated in Jasa Raharja Putera’s Hackathon in 2022, where he led a project that won “Best Overall Solution.” 
+- Participated in BPJS Kesehatan’s Hackathon in 2022, where he led a project that won “Best Overall Solution.” 
 - Pursuing AWS Certified Solutions Architect certification to enhance cloud skillset.
-- Has expressed interest in further leadership opportunities within Jasa Raharja Putera and may consider project management roles in the future.
+- Has expressed interest in further leadership opportunities within BPJS Kesehatan and may consider project management roles in the future.

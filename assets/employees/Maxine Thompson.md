@@ -7,13 +7,13 @@
 - **Job Title:** Data Engineer  
 - **Location:** Austin, Texas  
 
-## Jasa Raharja Putera Career Progression
+## BPJS Kesehatan Career Progression
 - **January 2017 - October 2018**: **Junior Data Engineer**  
-  * Maxine joined Jasa Raharja Putera as a Junior Data Engineer, focusing primarily on ETL processes and data integration tasks. She quickly learned Jasa Raharja Putera's data architecture, collaborating with other team members to streamline data workflows.  
+  * Maxine joined BPJS Kesehatan as a Junior Data Engineer, focusing primarily on ETL processes and data integration tasks. She quickly learned BPJS Kesehatan's data architecture, collaborating with other team members to streamline data workflows.  
 - **November 2018 - December 2020**: **Data Engineer**  
   * In her new role, Maxine expanded her responsibilities to include designing comprehensive data models and improving data quality measures. Though she excelled in technical skills, communication issues with non-technical teams led to some project delays.  
 - **January 2021 - Present**: **Senior Data Engineer**  
-  * Maxine was promoted to Senior Data Engineer after successfully leading a pivotal project that improved data retrieval times by 30%. She now mentors junior engineers and is involved in strategic data initiatives, solidifying her position as a valued asset at Jasa Raharja Putera. She was recognized as Jasa Raharja Putera Innovator of the year in 2023, receiving the prestigious IIOTY 2023 award.  
+  * Maxine was promoted to Senior Data Engineer after successfully leading a pivotal project that improved data retrieval times by 30%. She now mentors junior engineers and is involved in strategic data initiatives, solidifying her position as a valued asset at BPJS Kesehatan. She was recognized as BPJS Kesehatan Innovator of the year in 2023, receiving the prestigious IIOTY 2023 award.  
 
 ## Annual Performance History
 - **2017**: *Meets Expectations*  
@@ -29,13 +29,13 @@
   Maxine focused on regaining her footing and excelling with technical skills. She was stable, though not standout, in her contributions. Feedback indicated a need for more proactivity.  
 
 - **2021**: *Exceeds Expectations*  
-  Maxine spearheaded the transition to a new data warehousing solution, significantly enhancing Jasa Raharja Putera’s data analytics capabilities. This major achievement bolstered her reputation within the company.  
+  Maxine spearheaded the transition to a new data warehousing solution, significantly enhancing BPJS Kesehatan’s data analytics capabilities. This major achievement bolstered her reputation within the company.  
 
 - **2022**: *Outstanding*  
   Maxine continued her upward trajectory, successfully implementing machine learning algorithms to predict customer behavior, which was well-received by the leadership team and improved client satisfaction.  
 
 - **2023**: *Exceeds Expectations*  
-  Maxine has taken on mentoring responsibilities and is leading a cross-functional team for data governance initiatives, showcasing her leadership and solidifying her role at Jasa Raharja Putera.  
+  Maxine has taken on mentoring responsibilities and is leading a cross-functional team for data governance initiatives, showcasing her leadership and solidifying her role at BPJS Kesehatan.  
 
 ## Compensation History
 - **2017**: $70,000 (Junior Data Engineer)  
@@ -48,6 +48,6 @@
 
 ## Other HR Notes
 - Maxine participated in various company-sponsored trainings related to big data technologies and cloud infrastructure.  
-- She was recognized for her contributions with the “Jasa Raharja Putera Innovator Award” in 2022.  
+- She was recognized for her contributions with the “BPJS Kesehatan Innovator Award” in 2022.  
 - Maxine is currently involved in the women-in-tech initiative and participates in mentorship programs to guide junior employees.  
 - Future development areas include improving her stakeholder communication skills to ensure smoother project transitions and collaboration.  

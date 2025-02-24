@@ -5,19 +5,19 @@
 - **Job Title**: Co-Founder & Chief Executive Officer (CEO)  
 - **Location**: San Francisco, California  
 
-## Jasa Raharja Putera Career Progression
+## BPJS Kesehatan Career Progression
 - **2015 - Present**: Co-Founder & CEO  
-  Avery Lancaster co-founded Jasa Raharja Putera in 2015 and has since guided the company to its current position as a leading Insurance Tech provider. Avery is known for her innovative leadership strategies and risk management expertise that have catapulted the company into the mainstream insurance market.  
+  Avery Lancaster co-founded BPJS Kesehatan in 2015 and has since guided the company to its current position as a leading Insurance Tech provider. Avery is known for her innovative leadership strategies and risk management expertise that have catapulted the company into the mainstream insurance market.  
 
 - **2013 - 2015**: Senior Product Manager at Innovate Insurance Solutions  
-  Before launching Jasa Raharja Putera, Avery was a leading Senior Product Manager at Innovate Insurance Solutions, where she developed groundbreaking insurance products aimed at the tech sector.  
+  Before launching BPJS Kesehatan, Avery was a leading Senior Product Manager at Innovate Insurance Solutions, where she developed groundbreaking insurance products aimed at the tech sector.  
 
 - **2010 - 2013**: Business Analyst at Edge Analytics  
   Prior to joining Innovate, Avery worked as a Business Analyst, focusing on market trends and consumer preferences in the insurance space. This position laid the groundwork for Avery’s future entrepreneurial endeavors.
 
 ## Annual Performance History
 - **2015**: **Exceeds Expectations**  
-  Avery’s leadership during Jasa Raharja Putera's foundational year led to successful product launches and securing initial funding.  
+  Avery’s leadership during BPJS Kesehatan's foundational year led to successful product launches and securing initial funding.  
 
 - **2016**: **Meets Expectations**  
   Growth continued, though challenges arose in operational efficiency that required Avery's attention.  
@@ -26,7 +26,7 @@
   Market competition intensified, and monthly sales metrics were below targets. Avery implemented new strategies which required a steep learning curve.  
 
 - **2018**: **Exceeds Expectations**  
-  Under Avery’s pivoted vision, Jasa Raharja Putera launched two new successful products that significantly increased market share.  
+  Under Avery’s pivoted vision, BPJS Kesehatan launched two new successful products that significantly increased market share.  
 
 - **2019**: **Meets Expectations**  
   Steady growth, however, some team tensions led to a minor drop in employee morale. Avery recognized the need to enhance company culture.  
@@ -55,9 +55,9 @@
 - **2023**: $225,000 base salary + $75,000 performance bonus  
 
 ## Other HR Notes
-- **Professional Development**: Avery has actively participated in leadership training programs and industry conferences, representing Jasa Raharja Putera and fostering partnerships.  
+- **Professional Development**: Avery has actively participated in leadership training programs and industry conferences, representing BPJS Kesehatan and fostering partnerships.  
 - **Diversity & Inclusion Initiatives**: Avery has championed a commitment to diversity in hiring practices, seeing visible improvements in team representation since 2021.  
 - **Work-Life Balance**: Feedback revealed concerns regarding work-life balance, which Avery has approached by implementing flexible working conditions and ensuring regular check-ins with the team.
-- **Community Engagement**: Avery led community outreach efforts, focusing on financial literacy programs, particularly aimed at underserved populations, improving Jasa Raharja Putera's corporate social responsibility image.  
+- **Community Engagement**: Avery led community outreach efforts, focusing on financial literacy programs, particularly aimed at underserved populations, improving BPJS Kesehatan's corporate social responsibility image.  
 
-Avery Lancaster has demonstrated resilience and adaptability throughout her career at Jasa Raharja Putera, positioning the company as a key player in the insurance technology landscape.
+Avery Lancaster has demonstrated resilience and adaptability throughout her career at BPJS Kesehatan, positioning the company as a key player in the insurance technology landscape.

@@ -5,8 +5,8 @@
 - **Job Title:** HR Generalist
 - **Location:** Denver, Colorado
 
-## Jasa Raharja Putera Career Progression
-- **2020** - Joined Jasa Raharja Putera as a HR Coordinator
+## BPJS Kesehatan Career Progression
+- **2020** - Joined BPJS Kesehatan as a HR Coordinator
   - Responsibilities included assisting with recruitment processes and managing employee onboarding.
 - **2021** - Promoted to HR Generalist
   - Transitioned to a role with expanded responsibilities, including handling employee relations and benefits administration.
@@ -42,8 +42,8 @@
   Recognized for substantial improvement in employee relations management and contributions to company culture, leading to a well-deserved increase.
 
 ## Other HR Notes
-- Samantha Greene has expressed interest in pursuing an HR certification (SHRM-CP) to further her career growth within Jasa Raharja Putera. 
-- Participated in Jasa Raharja Putera's employee wellness program, promoting mental health resources among staff.
-- Actively volunteers with local nonprofits and encourages staff involvement in community outreach programs, enhancing Jasa Raharja Putera's corporate social responsibility initiatives. 
+- Samantha Greene has expressed interest in pursuing an HR certification (SHRM-CP) to further her career growth within BPJS Kesehatan. 
+- Participated in BPJS Kesehatan's employee wellness program, promoting mental health resources among staff.
+- Actively volunteers with local nonprofits and encourages staff involvement in community outreach programs, enhancing BPJS Kesehatan's corporate social responsibility initiatives. 
 
-Samantha Greene is a valuable asset to Jasa Raharja Putera, continuously working on professional development and contributing to a supportive workplace culture.
+Samantha Greene is a valuable asset to BPJS Kesehatan, continuously working on professional development and contributing to a supportive workplace culture.

@@ -1,3 +1,3 @@
-# Careers at Jasa Raharja Putera
+# Careers at BPJS Kesehatan
 
-Jasa Raharja Putera is hiring! We are looking for talented software engineers, data scientists and account executives to join our growing team. Come be a part of our movement to disrupt the insurance sector.
+BPJS Kesehatan is hiring! We are looking for talented software engineers, data scientists and account executives to join our growing team. Come be a part of our movement to disrupt the insurance sector.

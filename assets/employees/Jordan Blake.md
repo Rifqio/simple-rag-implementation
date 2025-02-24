@@ -7,19 +7,19 @@
 - **Job Title:** Sales Development Representative (SDR)  
 - **Location:** Austin, Texas  
 
-## Jasa Raharja Putera Career Progression
-- **2021-06:** Joined Jasa Raharja Putera as an Entry-Level SDR  
+## BPJS Kesehatan Career Progression
+- **2021-06:** Joined BPJS Kesehatan as an Entry-Level SDR  
 - **2022-02:** Promoted to Junior SDR after exceeding quarterly targets by 25%  
 - **2022-12:** Recognized as SDR of the Month for three consecutive months  
-- **2023-05:** Participated in the Jasa Raharja Putera Leadership Training Program  
+- **2023-05:** Participated in the BPJS Kesehatan Leadership Training Program  
 
 ## Annual Performance History
-- **2021:** First year at Jasa Raharja Putera; achieved 90% of monthly targets.  
+- **2021:** First year at BPJS Kesehatan; achieved 90% of monthly targets.  
   - **Feedback:** Strong potential shown in lead generation; needs improvement in follow-up techniques.  
 - **2022:** Achieved 120% of targets; pioneered outreach strategies that increased customer engagement.  
   - **Feedback:** Jordan's innovative approach contributed significantly to team success; recommended for leadership training.  
 - **2023:** Set to exceed annual targets by 30% in Q3; initiated successful partnerships that broadened market reach.  
-  - **Feedback:** Exceptional communicator; exemplifies the values of Jasa Raharja Putera and promotes team collaboration.
+  - **Feedback:** Exceptional communicator; exemplifies the values of BPJS Kesehatan and promotes team collaboration.
 
 ## Compensation History
 - **2021-06:** Starting Salary: $50,000  
@@ -29,6 +29,6 @@
 
 ## Other HR Notes
 - Jordan has shown an interest in continuing education, actively participating in company-sponsored sales webinars.  
-- Notable for involvement in the Jasa Raharja Putera volunteer program, assisting local charity events related to financial literacy.  
+- Notable for involvement in the BPJS Kesehatan volunteer program, assisting local charity events related to financial literacy.  
 - Employee wellness advocate, consistently promotes team bonding activities and stress-relief workshops.  
-- Plans to enroll in a course for advanced sales strategies in Q4 2023, aiming to further enhance his skills at Jasa Raharja Putera.
+- Plans to enroll in a course for advanced sales strategies in Q4 2023, aiming to further enhance his skills at BPJS Kesehatan.

@@ -7,7 +7,7 @@
 - **Job Title:** Account Executive  
 - **Location:** Austin, Texas  
 
-## Jasa Raharja Putera Career Progression
+## BPJS Kesehatan Career Progression
 - **2021-Present:** Account Executive  
   - Responsibilities include managing a portfolio of B2B clients, conducting sales presentations, and ensuring customer satisfaction.  
   - Achievements: 
@@ -41,8 +41,8 @@
 
 ## Other HR Notes
 - **Professional Development:** Emily is currently enrolled in a leadership training program to enhance her management skills and aims to move into a senior account role within the next 2 years.  
-- **Volunteer Work:** Actively participates in community outreach programs, representing Jasa Raharja Putera in charity events to promote corporate social responsibility.  
+- **Volunteer Work:** Actively participates in community outreach programs, representing BPJS Kesehatan in charity events to promote corporate social responsibility.  
 - **Interests:** In her spare time, Emily enjoys hiking, photography, and volunteering at local animal shelters.  
 - **Team Feedback:** Colleagues describe Emily as a highly motivated team player who consistently uplifts everyone around her.  
 
-Emily Carter exemplifies the kind of talent that drives Jasa Raharja Putera's success and is an invaluable asset to the company.
+Emily Carter exemplifies the kind of talent that drives BPJS Kesehatan's success and is an invaluable asset to the company.

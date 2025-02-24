@@ -7,8 +7,8 @@
 - **Job Title**: Sales Development Representative (SDR)  
 - **Location**: Denver, Colorado  
 
-## Jasa Raharja Putera Career Progression
-- **July 2021**: Joined Jasa Raharja Putera as a Sales Development Representative, focusing on lead generation and nurturing B2B relationships.  
+## BPJS Kesehatan Career Progression
+- **July 2021**: Joined BPJS Kesehatan as a Sales Development Representative, focusing on lead generation and nurturing B2B relationships.  
 - **January 2022**: Promoted to Senior Sales Development Representative due to exceptional performance in converting leads into clients.  
 - **October 2022**: Completed an Internal Leadership Training Program, enhancing skills in team collaboration and strategic selling. Currently mentoring junior SDRs.  
 - **April 2023**: Became involved in a cross-departmental project to streamline the customer onboarding process, showcasing initiative and leadership.  
@@ -46,7 +46,7 @@
   - Advanced Sales Negotiation Course (2023)  
 
 - **Awards**:  
-  - Jasa Raharja Putera "SDR of the Year" Award (2022)  
+  - BPJS Kesehatan "SDR of the Year" Award (2022)  
   - Monthly MVP Recognition (3 times in 2023)  
 
 - **Interests**:  
