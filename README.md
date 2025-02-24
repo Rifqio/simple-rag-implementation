@@ -105,9 +105,6 @@ const llm = new ChatGroq({
 ```
 
 * Calls LLaMA to generate a response based on the retrieved context.
-* Includes a system prompt for BPJS Kesehatan customer service.
-
----
 
 ## Future Improvements
 
